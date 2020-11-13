@@ -1,1 +1,1 @@
-Una plantilla con mi estilo y algunas dependencias.
+The best and most used labels for Github repositories, automated
