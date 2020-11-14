@@ -1,6 +1,5 @@
 import {labeler_options, label} from "./utils/types";
 import Request from "./request/Request";
-import Error404 from "./request/Error404";
 
 export default class Labeler {
     private request:Request
