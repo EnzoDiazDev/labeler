@@ -1,12 +1,12 @@
 {
   "name": "@lottielabs/labeler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " The best and most used labels for Github repositories, automated",
-  "main": "./dist/Main.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "dev": "ts-node ./src/Main.ts"
   },
   "repository": {
