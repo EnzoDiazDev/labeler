@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/lottielabs/labeler.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/lottielabs"
-  },
   "author": "Enzo Diaz",
   "license": "MIT",
   "bugs": {
