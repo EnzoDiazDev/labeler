@@ -1,6 +1,6 @@
 {
   "name": "@lottielabs/labeler",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": " The best and most used labels for Github repositories, automated",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
